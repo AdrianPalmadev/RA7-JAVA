@@ -1,14 +1,7 @@
 package Controlador;
 
 import static Api.Api.*;
-import Model.Andoriano;
-import Model.Especie;
-import Model.Ferengi;
-import Model.Humano;
-import Model.Klingon;
-import Model.Nibiriano;
-import Model.Planeta;
-import Model.Vulcaniano;
+import Model.*;
 import java.util.ArrayList;
 
 public class Controlador {
