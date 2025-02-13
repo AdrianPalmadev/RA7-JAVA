@@ -241,7 +241,7 @@ public class Controlador {
     /**
      * Mostramos los seres y los planetas que hay dentro de estos.
      */
-    public static void verseresporplaneta() {
+    public static void verSeresPorPlaneta() {
 
         for (int i = 0; i < listaPlanetas.size(); i++) {
             Planeta p = listaPlanetas.get(i);
