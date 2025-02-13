@@ -41,7 +41,7 @@ public class Inicio {
                     deleteSer();
                 }
                 case 4 -> {
-                    verseresporplaneta();
+                    verSeresPorPlaneta();
                 }
                 case 5 -> {
                     modser();
